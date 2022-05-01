@@ -38,15 +38,18 @@ All parts are 7mm wide, and so far seem strong enough to work for this purpose.
 ## Print Settings
 
 I am using an AnyCubic S3, and I have chosen to print each part standing up. With my current print settings in cura:
-
-Layer Height - 0.2 mm
-Print Speed  - 50mm/s
-Infill       - 18.0%
-Infill Pattern - Gyroid
-Build Plate - Brim
-Brim Width - 8.0 mm
+| Setting | Value |
+|---      |---    |
+|Layer Height | 0.2 mm |
+|Print Speed  | 50mm/s |
+|Infill       | 18.0% |
+|Infill Pattern | Gyroid |
+|Build Plate | Brim |
+|Brim Width | 8.0 mm |
 
 The average parts are coming out as just under 5 hours of print time, and uses approximatly 50g of PLA.
+
+Total print time for my use will be ~ 65 hours!
 
 ## Costing and Materials
 
