@@ -33,7 +33,8 @@ This was done to make sure the parts could be printed on smaller printers. I don
 
 All parts are 7mm wide, and so far seem strong enough to work for this purpose.
 
-<br>
+<br><br>
+Find all finished STLs in V1.0 Parts folder
 
 ## Print Settings
 
