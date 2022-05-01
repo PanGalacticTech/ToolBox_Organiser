@@ -3,7 +3,7 @@
 
 I have been trying to find a cheap but smart solution for organising my tools in my Peli Style toolcase.
 
-I found a few off the shelf versions, I particularly liked this product from trekpak: [TrekPak](https://www.waterproof-cases.co.uk/product/trekpak-1510-for-peli-1510-case)
+I found a few off the shelf versions, I particularly liked this product from [TrekPak](https://www.waterproof-cases.co.uk/product/trekpak-1510-for-peli-1510-case).
 
 However the cost was extremly offputting given the materials they used. I wanted something clean and configurable but cheaper. Preferably with materials I already had to hand.
 
