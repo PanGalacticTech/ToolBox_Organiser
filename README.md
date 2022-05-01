@@ -25,9 +25,13 @@ Part B is glued between 2 x part A to make up one of the horizontal dividers. <b
 
 Part C and Part D are glued together to make up one vertical dividers. <br>
 
-Additional horizontal and vertical dividors can be printed as required, along with the 2 shorter single and double row dividors - shown in pink.
+Additional horizontal and vertical dividors can be printed as required. <br>
+
+Part E and F (Pink) are shorter row dividers and can be printed as required to splitting up rows into shorter sections.
 
 This was done to make sure the parts could be printed on smaller printers. I dont think any part is larger than 150mmx150mm  <br>
+
+All parts are 7mm wide, and so far seem strong enough to work for this purpose.
 
 <br>
 
