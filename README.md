@@ -63,4 +63,4 @@ ISOmetric view showing inner box dimensions.
 <img width="1634" alt="Dimensions" src="https://user-images.githubusercontent.com/53580358/166165810-4a7914e8-b479-4875-a662-166b015fdc7b.png">
 
 Closer look at the structure of the dividers.
-<img width="1081" alt="toolbox_organiser" src="https://user-images.githubusercontent.com/53580358/166166227-2d260cb2-6218-4381-9bb8-e8a97334b3c7.png">
+![image](https://user-images.githubusercontent.com/53580358/166828205-45a18b30-56e7-41b7-a44d-70aa490ebab3.png)
