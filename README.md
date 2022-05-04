@@ -9,7 +9,7 @@ However the cost was extremly offputting given the materials they used. I wanted
 
 
 ## My Solution: 3D Printed ToolCase Inserts
-<img width="1799" alt="False Colour parts" src="https://user-images.githubusercontent.com/53580358/166165615-a1e49370-9dca-43fb-b1e2-1e6f693499be.png">
+![image](https://user-images.githubusercontent.com/53580358/166827835-fef7b62f-5fb9-49d8-88a6-91b5086e5c24.png)
 
 The inserts are made up of a total of 6 different parts. The minimum parts to make the inserts are:
 
